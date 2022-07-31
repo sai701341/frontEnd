@@ -1,0 +1,15 @@
+body,h1,h3,p{
+    background-color: rgb(150, 94, 148);
+    text-align: center;
+    color:rgb(23, 139, 139);
+    background-image:url(https://c4.wallpaperflare.com/wallpaper/143/455/815/36015918-cute-love-wallpaper-preview.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}   
+h1{
+    background-color: brown;
+    color: greenyellow;
+}
+
+    
